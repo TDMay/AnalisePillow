@@ -1,3 +1,5 @@
+# Salvando uma imagem JPEG como PNG
+
 from PIL import Image
 
 # Abrindo uma imagem
