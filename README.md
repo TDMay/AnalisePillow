@@ -1,0 +1,1 @@
+# Projeto simples criado por May para aprender sobre a biblioteca python Pillow
